@@ -1,6 +1,12 @@
 ## Laboratório BabaçuLAB Vicente da SIRINEO TECHNOLOGIES
 
-Em breve vamos inserir o dia a dia de nosso Laboratório do Vicente.
+Um pequena homenagem ao nosso filho Vicente.
+
+![alt text](https://github.com/sirineo-technologies/BabacuLAB-Vicente/blob/main/fotoslab/baba%C3%A7ulab-vicente.jpeg)
+
+Estaremos colocando aqui o dia a dia de nosso Laboratório BabaçuLAB Vicente, e colocando dicas de como organiar montar nossos PCBS.
+
+![alt text](https://github.com/sirineo-technologies/BabacuLAB-Vicente/blob/main/fotoslab/baba%C3%A7ulab-vicente2.jpeg)
 
 <br>
 
